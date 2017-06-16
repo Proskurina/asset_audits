@@ -17,6 +17,7 @@ gem 'delayed_job_active_record'
 # gem "jquery-rails"
 
 gem 'byebug'
+gem 'pry'
 
 group :development do
   gem 'sinatra'
